@@ -243,6 +243,21 @@ A Shell-scripting based open source contribution/project.
 
 ## 📜 Certifications
 
+**Forage**
+<p>
+<img src="https://img.shields.io/badge/Deloitte%20Australia%20--%20Technology%20Job%20Simulation-7C3AED?style=flat-square"/>
+</p>
+
+> Issued Jun 2026 · Credential ID: `yaujtDNM6CiiKtDSs` · Skills: Software Development and Data Analysis
+> [View Credential →](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_6a2792eb9f7314499f1894f3_1780980355638_completion_certificate.pdf)
+
+**IBM**
+<p>
+<img src="https://img.shields.io/badge/IBM%20AI%20Engineering-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
+</p>
+
+> Credential ID: `QLVMDV5G24RF`
+
 **AWS**
 <p>
 <img src="https://img.shields.io/badge/%5BCertification%20Name%5D-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
@@ -263,7 +278,10 @@ A Shell-scripting based open source contribution/project.
 <img src="https://img.shields.io/badge/%5BCertification%20Name%5D-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
 </p>
 
-> *Replace the placeholders above with your actual completed certifications.*
+> *Replace the remaining placeholders above with any further completed certifications.*
+
+**Organizations**
+- United Latino Students Association
 
 <br/>
 
@@ -272,10 +290,7 @@ A Shell-scripting based open source contribution/project.
 ## 💻 Coding Profiles
 
 <p align="center">
-<a href="https://leetcode.com/[your-username]"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/></a>
-<a href="https://www.geeksforgeeks.org/user/[your-username]"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/[your-username]"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/[your-username]"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://leetcode.com/u/ishant0004/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/></a>
 </p>
 
 <br/>
