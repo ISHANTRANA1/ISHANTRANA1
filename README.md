@@ -208,30 +208,13 @@ A Shell-scripting based open source contribution/project.
 
 ---
 
-## 💼 Experience
-
-### [Job Title] @ [Company Name]
-`[Start Date] – [End Date]`
-
-[Add a professional description of this role]
-
-- [Add scope of work bullet point]
-- [Add scope of work bullet point]
-- [Add scope of work bullet point]
-
-`[Skill]` `[Skill]` `[Skill]` `[Skill]`
-
-<br/>
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| [Add achievement] | [Add details] |
+| Credex — Advanced to Round 2 | Selected from 13,000 applicants to the top 100 (top 0.8%) in Credex's hiring process |
 | [Add achievement] | [Add details] |
 | [Add achievement] | [Add details] |
 
@@ -257,28 +240,6 @@ A Shell-scripting based open source contribution/project.
 </p>
 
 > Credential ID: `QLVMDV5G24RF`
-
-**AWS**
-<p>
-<img src="https://img.shields.io/badge/%5BCertification%20Name%5D-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-</p>
-
-**Oracle**
-<p>
-<img src="https://img.shields.io/badge/%5BCertification%20Name%5D-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-</p>
-
-**NPTEL**
-<p>
-<img src="https://img.shields.io/badge/%5BCertification%20Name%5D-7C3AED?style=flat-square"/>
-</p>
-
-**Cisco**
-<p>
-<img src="https://img.shields.io/badge/%5BCertification%20Name%5D-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-</p>
-
-> *Replace the remaining placeholders above with any further completed certifications.*
 
 **Organizations**
 - United Latino Students Association
@@ -355,11 +316,14 @@ A Shell-scripting based open source contribution/project.
 ```yaml
 current_focus:
   learning:
-    - "[Add what you're currently learning]"
+    - "Agentic engineering patterns and AI/ML fundamentals"
+    - "Advanced TypeScript & Next.js"
   building:
-    - "[Add what you're currently building]"
+    - "SpendLens — an AI-powered spend audit tool (Next.js, TypeScript, Claude API)"
+    - "VibeShield — an AI-powered content moderation platform"
   exploring:
-    - "[Add what you're currently exploring]"
+    - "Open source contributions ahead of GSoC 2027"
+    - "Prompt engineering and LLM-powered product features"
   open_to:
     - "Full Stack Engineering roles"
     - "AI/ML collaboration"
